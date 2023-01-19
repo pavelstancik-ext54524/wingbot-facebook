@@ -1,5 +1,5 @@
 {
-  "name": "wingbot-facebook",
+  "name": "@cs-chatbots/wingbot-facebook",
   "version": "3.1.0",
   "description": "Facebook Messenger plugin for wingbot",
   "main": "src/main.js",
