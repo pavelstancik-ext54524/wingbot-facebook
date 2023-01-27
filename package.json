@@ -1,6 +1,6 @@
 {
   "name": "@cs-chatbots/wingbot-facebook",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "Facebook Messenger plugin for wingbot",
   "main": "src/main.js",
   "scripts": {
@@ -55,5 +55,10 @@
   },
   "peerDependencies": {
     "wingbot": "^3.0.0-alpha.34"
+  },
+  "overrides": {
+    "eslint": "$eslint",
+    "eslint-mocha": "$eslint-mocha",
+    "mocha": "$mocha"
   }
 }
